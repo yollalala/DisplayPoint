@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\DisplayPoint\DisplayPoint\bin\Debug\DisplayPoint.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\DisplayPoint\DisplayPoint\bin\Debug\DisplayPoint.exe
+c:\users\asus\documents\visual studio 2013\Projects\DisplayPoint\DisplayPoint\bin\Debug\DisplayPoint.pdb
+c:\users\asus\documents\visual studio 2013\Projects\DisplayPoint\DisplayPoint\obj\Debug\DisplayPoint.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\DisplayPoint\DisplayPoint\obj\Debug\DisplayPoint.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\DisplayPoint\DisplayPoint\obj\Debug\DisplayPoint.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\DisplayPoint\DisplayPoint\obj\Debug\DisplayPoint.exe
+c:\users\asus\documents\visual studio 2013\Projects\DisplayPoint\DisplayPoint\obj\Debug\DisplayPoint.pdb
+C:\Users\asus\Documents\Visual Studio 2013\Projects\DisplayPoint\DisplayPoint\obj\Debug\DisplayPoint.Form1.resources
